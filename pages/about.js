@@ -10,6 +10,7 @@ const About = () => {
       para: "About Us",
     },
   };
+
   return (
     <>
       <main>
