@@ -61,10 +61,10 @@ const Footer = () => {
               <form
                 action="newsletter"
                 method="post"
-                autocomplete="off"
+                autoComplete="off"
                 className=""
               >
-                <label for="email">
+                <label htmlFor="email">
                   Stay up to date with the latest news and deals!
                 </label>
                 <div className="txtGrp relative">

@@ -4,25 +4,25 @@ const Special = () => {
   return (
     <>
       <section id="sec_special">
-        <div class="contain">
-          <div class="sec_heading">
+        <div className="contain">
+          <div className="sec_heading">
             <h5>Quick picks</h5>
             <h2>Our Special Scope</h2>
           </div>
-          <div class="flex">
-            <div class="col">
-              <div class="inner">
-                <div class="image">
+          <div className="flex">
+            <div className="col">
+              <div className="inner">
+                <div className="image">
                   <img src="images/t-1.png" alt="" />
                 </div>
-                <div class="content">
-                  <div class="price-1">
+                <div className="content">
+                  <div className="price-1">
                     <h4>Pistacho Delight</h4>
-                    <p class="price">
+                    <p className="price">
                       <a href="">$3.00</a>
                     </p>
                   </div>
-                  <div class="detail">
+                  <div className="detail">
                     <p>
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Temporibus similique nobis in tenetur, repudiandae
@@ -32,19 +32,19 @@ const Special = () => {
                 </div>
               </div>
             </div>
-            <div class="col">
-              <div class="inner">
-                <div class="image">
+            <div className="col">
+              <div className="inner">
+                <div className="image">
                   <img src="images/t-1.png" alt="" />
                 </div>
-                <div class="content">
-                  <div class="price-1">
+                <div className="content">
+                  <div className="price-1">
                     <h4>Pistacho Delight</h4>
-                    <p class="price">
+                    <p className="price">
                       <a href="">$3.00</a>
                     </p>
                   </div>
-                  <div class="detail">
+                  <div className="detail">
                     <p>
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Temporibus similique nobis in tenetur, repudiandae
@@ -54,19 +54,19 @@ const Special = () => {
                 </div>
               </div>
             </div>
-            <div class="col">
-              <div class="inner">
-                <div class="image">
+            <div className="col">
+              <div className="inner">
+                <div className="image">
                   <img src="images/t-1.png" alt="" />
                 </div>
-                <div class="content">
-                  <div class="price-1">
+                <div className="content">
+                  <div className="price-1">
                     <h4>Pistacho Delight</h4>
-                    <p class="price">
+                    <p className="price">
                       <a href="">$3.00</a>
                     </p>
                   </div>
-                  <div class="detail">
+                  <div className="detail">
                     <p>
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Temporibus similique nobis in tenetur, repudiandae
@@ -76,19 +76,19 @@ const Special = () => {
                 </div>
               </div>
             </div>
-            <div class="col">
-              <div class="inner">
-                <div class="image">
+            <div className="col">
+              <div className="inner">
+                <div className="image">
                   <img src="images/t-1.png" alt="" />
                 </div>
-                <div class="content">
-                  <div class="price-1">
+                <div className="content">
+                  <div className="price-1">
                     <h4>Pistacho Delight</h4>
-                    <p class="price">
+                    <p className="price">
                       <a href="">$3.00</a>
                     </p>
                   </div>
-                  <div class="detail">
+                  <div className="detail">
                     <p>
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Temporibus similique nobis in tenetur, repudiandae
@@ -99,8 +99,8 @@ const Special = () => {
               </div>
             </div>
           </div>
-          <div class="cta btn-box text-center">
-            <a href="flavor.php" class="site_btn theme-btn-one">
+          <div className="cta btn-box text-center">
+            <a href="flavor.php" className="site_btn theme-btn-one">
               Learn More
             </a>
           </div>

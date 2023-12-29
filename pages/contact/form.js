@@ -13,19 +13,19 @@ const Form = () => {
   };
   return (
     <>
-      <section class="contact-us">
-        <div class="shape">
+      <section className="contact-us">
+        <div className="shape">
           <img src="images/h-shape.png" alt="" />
         </div>
-        <div class="contain">
-          <div class="sec_heading">
+        <div className="contain">
+          <div className="sec_heading">
             <h5>Contact Us</h5>
             <h2>Drop us a line</h2>
           </div>
-          <div class="sec-cntnt">
+          <div className="sec-cntnt">
             <p>Any questions of remarks? Just wirte us a message!</p>
           </div>
-          <div class="inner">
+          <div className="inner">
             <h3>Let's Start</h3>
             <form onSubmit={handleSubmit(onSubmit)}>
               <div className="row">
@@ -151,10 +151,10 @@ const Form = () => {
             </form>
           </div>
         </div>
-        <div class="shape-1">
+        <div className="shape-1">
           <img src="images/contact-1.png" alt="" />
         </div>
-        <div class="shape-2">
+        <div className="shape-2">
           <img src="images/t-1.png" alt="" />
         </div>
       </section>

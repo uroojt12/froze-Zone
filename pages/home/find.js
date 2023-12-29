@@ -4,105 +4,105 @@ const Find = () => {
   return (
     <>
       <section id="sec_find">
-        <div class="contain">
-          <div class="sec_heading">
+        <div className="contain">
+          <div className="sec_heading">
             <h5>Find Us</h5>
             <h2>Where Can I Find Rroze Zone Ice Cream?</h2>
           </div>
-          <div class="flex">
-            <div class="col">
-              <div class="back-bg">
+          <div className="flex">
+            <div className="col">
+              <div className="back-bg">
                 <img src="images/find-1.png" alt="" />
               </div>
-              <div class="inner">
-                <div class="count-box">
+              <div className="inner">
+                <div className="count-box">
                   <img src="images/f-1.png" alt="" />
                 </div>
-                <div class="content">
+                <div className="content">
                   <h4>VISIT US IN SHOP</h4>
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   </p>
-                  <div class="cta">
-                    <a href="contact.php" class="webBtn">
+                  <div className="cta">
+                    <a href="contact.php" className="webBtn">
                       Read More
                     </a>
                   </div>
                 </div>
               </div>
-              <div class="back-bg-1">
+              <div className="back-bg-1">
                 <img src="images/find-1.png" alt="" />
               </div>
             </div>
-            <div class="col">
-              <div class="back-bg">
+            <div className="col">
+              <div className="back-bg">
                 <img src="images/find-1.png" alt="" />
               </div>
-              <div class="inner">
-                <div class="count-box">
+              <div className="inner">
+                <div className="count-box">
                   <img src="images/f-2.png" alt="" />
                 </div>
-                <div class="content">
+                <div className="content">
                   <h4>ORDER TAKEOUT</h4>
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   </p>
-                  <div class="cta">
-                    <a href="contact.php" class="webBtn">
+                  <div className="cta">
+                    <a href="contact.php" className="webBtn">
                       Read More
                     </a>
                   </div>
                 </div>
               </div>
-              <div class="back-bg-1">
+              <div className="back-bg-1">
                 <img src="images/find-1.png" alt="" />
               </div>
             </div>
-            <div class="col">
-              <div class="back-bg">
+            <div className="col">
+              <div className="back-bg">
                 <img src="images/find-1.png" alt="" />
               </div>
-              <div class="inner">
-                <div class="count-box">
+              <div className="inner">
+                <div className="count-box">
                   <img src="images/f-3.png" alt="" />
                 </div>
-                <div class="content">
+                <div className="content">
                   <h4>DELIVERY</h4>
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   </p>
-                  <div class="cta">
-                    <a href="contact.php" class="webBtn">
+                  <div className="cta">
+                    <a href="contact.php" className="webBtn">
                       Read More
                     </a>
                   </div>
                 </div>
               </div>
-              <div class="back-bg-1">
+              <div className="back-bg-1">
                 <img src="images/find-1.png" alt="" />
               </div>
             </div>
-            <div class="col">
-              <div class="back-bg">
+            <div className="col">
+              <div className="back-bg">
                 <img src="images/find-1.png" alt="" />
               </div>
-              <div class="inner">
-                <div class="count-box">
+              <div className="inner">
+                <div className="count-box">
                   <img src="images/f-4.png" alt="" />
                 </div>
-                <div class="content">
+                <div className="content">
                   <h4>IN OTHER STORES</h4>
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   </p>
-                  <div class="cta">
-                    <a href="contact.php" class="webBtn">
+                  <div className="cta">
+                    <a href="contact.php" className="webBtn">
                       Read More
                     </a>
                   </div>
                 </div>
               </div>
-              <div class="back-bg-1">
+              <div className="back-bg-1">
                 <img src="images/find-1.png" alt="" />
               </div>
             </div>

@@ -4,20 +4,20 @@ const About = () => {
   return (
     <>
       <section id="sec_about">
-        <div class="contain">
-          <div class="flex">
-            <div class="col col1">
-              <div class="image">
+        <div className="contain">
+          <div className="flex">
+            <div className="col col1">
+              <div className="image">
                 <img src="images/about.png" alt="" />
               </div>
             </div>
-            <div class="col col2">
-              <div class="inner">
-                <div class="sec_heading">
+            <div className="col col2">
+              <div className="inner">
+                <div className="sec_heading">
                   <h5>About Us</h5>
                   <h2>Taking Ice Cream To New Heights</h2>
                 </div>
-                <div class="content">
+                <div className="content">
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Repellendus qui excepturi obcaecati nulla consectetur amet
@@ -35,8 +35,8 @@ const About = () => {
                     odit ducimus nobis esse amet voluptatum quis!
                   </p>
                 </div>
-                <div class="cta btn-box ">
-                  <Link href="about.php" class="site_btn theme-btn-one">
+                <div className="cta btn-box ">
+                  <Link href="about.php" className="site_btn theme-btn-one">
                     Learn More
                   </Link>
                 </div>
