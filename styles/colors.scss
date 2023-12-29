@@ -1,0 +1,36 @@
+$primary-color: #071a2b;
+$color: #004aad;
+$color2: #ff3d3d;
+$black: #000;
+$gray: #272727;
+$green_dark: #8dbe99;
+$green_light: #69b17b;
+$green: #27ae60;
+$dark_gray: #172330;
+$light_gray: #bdbdbd;
+$red: #eb5757;
+$light1: #f2f2f2;
+$font: "Regular";
+$shadow: 0 4rem 3rem rgba($black, 0.05);
+$shadow2: 0 0.7rem 3.5rem -0.5rem rgba($black, 0.1),
+  0 -0.5rem 1rem -0.6rem rgba($black, 0.1);
+$shadow3: 0.5rem 0.8rem 4.6rem 0.5rem rgba(96, 49, 217, 0.1);
+// ======site color=====
+$main_orange: #ea7a16;
+$main_blue: #015ec5;
+$main_shadow: 2px 2px 2px rgb(41 41 47 / 20%);
+$light: #fff;
+$light_orange: #ea7a1661;
+$f_bg: #0b1027;
+$input_clr: #080a0f;
+$input_bg: #fefefe;
+$input_bdr: #eee;
+$border_clr: #ffffff12;
+$main_linear1: repeating-linear-gradient(
+  -55deg,
+  rgba(255, 255, 255, 0) 0.8px,
+  #ffffff 1.6px,
+  #ffffff 3px,
+  rgba(255, 255, 255, 0) 3.8px,
+  rgba(255, 255, 255, 0) 10px
+);
